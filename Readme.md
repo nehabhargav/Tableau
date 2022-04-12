@@ -23,3 +23,10 @@ We have used super store data .
 
 Fig 1. Shows Joins in Tableau.
 
+<h2>Relationships</h2>
+
+Created likns with different datasets.
+join can match fields with only unique values but relationships can combine fields with non unique values.
+
+
+
