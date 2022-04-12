@@ -18,3 +18,6 @@ We have used super store data .
 (3)Inner Join
 
 (4)Full outer Join
+
+![joins](https://user-images.githubusercontent.com/53258421/163014513-53ac156e-5019-4103-bebe-e80414704a85.png)
+
