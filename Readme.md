@@ -28,5 +28,9 @@ Fig 1. Shows Joins in Tableau.
 Created likns with different datasets.
 join can match fields with only unique values but relationships can combine fields with non unique values..
 
+![relationships](https://user-images.githubusercontent.com/53258421/163023588-5e6c90ef-8bb2-4686-90aa-3c388d562f1d.png)
+
+Fig 2. Relationship in Tableau
+
 
 
