@@ -21,3 +21,5 @@ We have used super store data .
 
 ![joins](https://user-images.githubusercontent.com/53258421/163014513-53ac156e-5019-4103-bebe-e80414704a85.png)
 
+Fig 1. Shows Joins in Tableau.
+
