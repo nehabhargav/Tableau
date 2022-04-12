@@ -9,3 +9,8 @@ This project is solely focused on building Tableau skills !
 <b>Basics</b>
 
 <h2>Joins</h2>
+
+(1)Left join
+(2)Right Join
+(3)Inner Join
+(4)Full outer Join
